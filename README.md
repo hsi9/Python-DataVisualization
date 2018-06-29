@@ -1,1 +1,1 @@
-# Here are some classic projects from Kaggle working on machine learning and data visualization. 
+# Here are some classic projects from Kaggle that work on machine learning and data visualization. 
